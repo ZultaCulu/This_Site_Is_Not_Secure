@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="This_Site_Is_Not_Secure"
-run/main_scene="res://this_site_is_not_secure/Scenes/Home Page/Home.tscn"
+run/main_scene="res://Pages/Home/Home.tscn"
 config/icon="res://icon.png"
 
 [gui]
